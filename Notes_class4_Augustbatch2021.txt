@@ -1,0 +1,74 @@
+Banking Application
+
+For Admin user
+
+- verify admin login with valid and invalid data
+- verify admin login without data
+- verify all admin home links
+- verify admin change  password with valid and invalid data
+- verify admin change password with existing data
+- verify admin logout
+
+
+
+For new branch
+- create a new branch with valid and invalid data
+- create a branch with no data
+- reset and cancel
+
+
+Create a new role
+- create a new role with valid and invalid data
+- verify role with deletion having no dependency
+- verify links in role details
+
+
+
+For customer & Visitors
+- login
+-visitor profile
+- verify all the links on visitor profile page
+
+
+
+Customer transaction & Security
+- verify able to add payee
+- able to register mobile
+- virtual keyboard
+- OTP
+- capcha not robot feature
+- password encryption
+- security questions
+
+
+Additional
+- Request a passbook/chequebook
+- Request OTP Pin
+- ATM PIN
+
+
+
+
+
+UX/Usability
+- Icon Placement
+- background colors
+- Spacing between fields
+- look and feel
+
+
+
+
+
+
+
+
+
+
+Interface testing
+
+- 
+
+
+
+
